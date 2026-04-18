@@ -1,0 +1,595 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "main.py",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L1",
+      "id": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "community": 0,
+      "norm_label": "main.py"
+    },
+    {
+      "label": "ConnectionManager",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L26",
+      "id": "main_connectionmanager",
+      "community": 1,
+      "norm_label": "connectionmanager"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L27",
+      "id": "main_connectionmanager_init",
+      "community": 1,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".connect()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L30",
+      "id": "main_connectionmanager_connect",
+      "community": 1,
+      "norm_label": ".connect()"
+    },
+    {
+      "label": ".disconnect()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L34",
+      "id": "main_connectionmanager_disconnect",
+      "community": 1,
+      "norm_label": ".disconnect()"
+    },
+    {
+      "label": ".broadcast()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L37",
+      "id": "main_connectionmanager_broadcast",
+      "community": 1,
+      "norm_label": ".broadcast()"
+    },
+    {
+      "label": "get_current_state()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L46",
+      "id": "main_get_current_state",
+      "community": 0,
+      "norm_label": "get_current_state()"
+    },
+    {
+      "label": "get_zones()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L57",
+      "id": "main_get_zones",
+      "community": 0,
+      "norm_label": "get_zones()"
+    },
+    {
+      "label": "get_heatmap()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L61",
+      "id": "main_get_heatmap",
+      "community": 0,
+      "norm_label": "get_heatmap()"
+    },
+    {
+      "label": "get_best_route()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L81",
+      "id": "main_get_best_route",
+      "community": 0,
+      "norm_label": "get_best_route()"
+    },
+    {
+      "label": "JoinQueueRequest",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L106",
+      "id": "main_joinqueuerequest",
+      "community": 3,
+      "norm_label": "joinqueuerequest"
+    },
+    {
+      "label": "BaseModel",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "basemodel",
+      "community": 3,
+      "norm_label": "basemodel"
+    },
+    {
+      "label": "join_queue()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L111",
+      "id": "main_join_queue",
+      "community": 0,
+      "norm_label": "join_queue()"
+    },
+    {
+      "label": "queue_status()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L128",
+      "id": "main_queue_status",
+      "community": 0,
+      "norm_label": "queue_status()"
+    },
+    {
+      "label": "websocket_endpoint()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L134",
+      "id": "main_websocket_endpoint",
+      "community": 1,
+      "norm_label": "websocket_endpoint()"
+    },
+    {
+      "label": "simulator.py",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/simulator.py",
+      "source_location": "L1",
+      "id": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_simulator_py",
+      "community": 4,
+      "norm_label": "simulator.py"
+    },
+    {
+      "label": "simulate()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/simulator.py",
+      "source_location": "L17",
+      "id": "simulator_simulate",
+      "community": 4,
+      "norm_label": "simulate()"
+    },
+    {
+      "label": "graph_engine.py",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L1",
+      "id": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_graph_engine_py",
+      "community": 2,
+      "norm_label": "graph_engine.py"
+    },
+    {
+      "label": "calculate_dynamic_weight()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L31",
+      "id": "graph_engine_calculate_dynamic_weight",
+      "community": 2,
+      "norm_label": "calculate_dynamic_weight()"
+    },
+    {
+      "label": "dijkstra_shortest_path()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L42",
+      "id": "graph_engine_dijkstra_shortest_path",
+      "community": 2,
+      "norm_label": "dijkstra_shortest_path()"
+    },
+    {
+      "label": "Calculate dynamic edge weight based on the destination node's crowd density and",
+      "file_type": "rationale",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L32",
+      "id": "graph_engine_rationale_32",
+      "community": 2,
+      "norm_label": "calculate dynamic edge weight based on the destination node's crowd density and"
+    },
+    {
+      "label": "Find the shortest path considering real-time node densities and emergency mode.",
+      "file_type": "rationale",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L43",
+      "id": "graph_engine_rationale_43",
+      "community": 2,
+      "norm_label": "find the shortest path considering real-time node densities and emergency mode."
+    },
+    {
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/frontend/vite.config.js",
+      "source_location": "L1",
+      "id": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_frontend_vite_config_js",
+      "community": 6,
+      "norm_label": "vite.config.js"
+    },
+    {
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/frontend/eslint.config.js",
+      "source_location": "L1",
+      "id": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_frontend_eslint_config_js",
+      "community": 7,
+      "norm_label": "eslint.config.js"
+    },
+    {
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/frontend/src/App.jsx",
+      "source_location": "L1",
+      "id": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_frontend_src_app_jsx",
+      "community": 5,
+      "norm_label": "app.jsx"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/frontend/src/App.jsx",
+      "source_location": "L23",
+      "id": "app_app",
+      "community": 5,
+      "norm_label": "app()"
+    },
+    {
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/frontend/src/main.jsx",
+      "source_location": "L1",
+      "id": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_frontend_src_main_jsx",
+      "community": 8,
+      "norm_label": "main.jsx"
+    },
+    {
+      "label": "Calculate dynamic edge weight based on the destination node's crowd density.",
+      "file_type": "rationale",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L23",
+      "community": 9,
+      "norm_label": "calculate dynamic edge weight based on the destination node's crowd density.",
+      "id": "graph_engine_rationale_23"
+    },
+    {
+      "label": "Find the shortest path from start to end considering real-time node densities.",
+      "file_type": "rationale",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L30",
+      "community": 10,
+      "norm_label": "find the shortest path from start to end considering real-time node densities.",
+      "id": "graph_engine_rationale_30"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "_tgt": "main_connectionmanager",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "target": "main_connectionmanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L46",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "_tgt": "main_get_current_state",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "target": "main_get_current_state",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L57",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "_tgt": "main_get_zones",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "target": "main_get_zones",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L61",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "_tgt": "main_get_heatmap",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "target": "main_get_heatmap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L81",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "_tgt": "main_get_best_route",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "target": "main_get_best_route",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L106",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "_tgt": "main_joinqueuerequest",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "target": "main_joinqueuerequest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L111",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "_tgt": "main_join_queue",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "target": "main_join_queue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L128",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "_tgt": "main_queue_status",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "target": "main_queue_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L134",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "_tgt": "main_websocket_endpoint",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_main_py",
+      "target": "main_websocket_endpoint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "main_connectionmanager",
+      "_tgt": "main_connectionmanager_init",
+      "source": "main_connectionmanager",
+      "target": "main_connectionmanager_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_src": "main_connectionmanager",
+      "_tgt": "main_connectionmanager_connect",
+      "source": "main_connectionmanager",
+      "target": "main_connectionmanager_connect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_src": "main_connectionmanager",
+      "_tgt": "main_connectionmanager_disconnect",
+      "source": "main_connectionmanager",
+      "target": "main_connectionmanager_disconnect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_src": "main_connectionmanager",
+      "_tgt": "main_connectionmanager_broadcast",
+      "source": "main_connectionmanager",
+      "target": "main_connectionmanager_broadcast",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L135",
+      "weight": 1.0,
+      "_src": "main_websocket_endpoint",
+      "_tgt": "main_connectionmanager_connect",
+      "source": "main_connectionmanager_connect",
+      "target": "main_websocket_endpoint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L147",
+      "weight": 1.0,
+      "_src": "main_websocket_endpoint",
+      "_tgt": "main_connectionmanager_disconnect",
+      "source": "main_connectionmanager_disconnect",
+      "target": "main_websocket_endpoint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L144",
+      "weight": 1.0,
+      "_src": "main_websocket_endpoint",
+      "_tgt": "main_connectionmanager_broadcast",
+      "source": "main_connectionmanager_broadcast",
+      "target": "main_websocket_endpoint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L62",
+      "weight": 1.0,
+      "_src": "main_get_heatmap",
+      "_tgt": "main_get_current_state",
+      "source": "main_get_current_state",
+      "target": "main_get_heatmap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L82",
+      "weight": 1.0,
+      "_src": "main_get_best_route",
+      "_tgt": "main_get_current_state",
+      "source": "main_get_current_state",
+      "target": "main_get_best_route",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "_src": "main_get_best_route",
+      "_tgt": "graph_engine_dijkstra_shortest_path",
+      "source": "main_get_best_route",
+      "target": "graph_engine_dijkstra_shortest_path"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/main.py",
+      "source_location": "L106",
+      "weight": 1.0,
+      "_src": "main_joinqueuerequest",
+      "_tgt": "basemodel",
+      "source": "main_joinqueuerequest",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/simulator.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_simulator_py",
+      "_tgt": "simulator_simulate",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_simulator_py",
+      "target": "simulator_simulate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_graph_engine_py",
+      "_tgt": "graph_engine_calculate_dynamic_weight",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_graph_engine_py",
+      "target": "graph_engine_calculate_dynamic_weight",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_graph_engine_py",
+      "_tgt": "graph_engine_dijkstra_shortest_path",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_backend_graph_engine_py",
+      "target": "graph_engine_dijkstra_shortest_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L86",
+      "weight": 1.0,
+      "_src": "graph_engine_dijkstra_shortest_path",
+      "_tgt": "graph_engine_calculate_dynamic_weight",
+      "source": "graph_engine_calculate_dynamic_weight",
+      "target": "graph_engine_dijkstra_shortest_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_src": "graph_engine_rationale_32",
+      "_tgt": "graph_engine_calculate_dynamic_weight",
+      "source": "graph_engine_calculate_dynamic_weight",
+      "target": "graph_engine_rationale_32",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/backend/graph_engine.py",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_src": "graph_engine_rationale_43",
+      "_tgt": "graph_engine_dijkstra_shortest_path",
+      "source": "graph_engine_dijkstra_shortest_path",
+      "target": "graph_engine_rationale_43",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/home/aymankhan/Desktop/projects/AI-Crowd-Flow-Prediction/frontend/src/App.jsx",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_frontend_src_app_jsx",
+      "_tgt": "app_app",
+      "source": "home_aymankhan_desktop_projects_ai_crowd_flow_prediction_frontend_src_app_jsx",
+      "target": "app_app",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

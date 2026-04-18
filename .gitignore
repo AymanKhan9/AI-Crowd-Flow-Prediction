@@ -1,0 +1,15 @@
+#ignore Python cache directories
+__pycache__/
+*.py[cod]
+*$py.class 
+
+#ignore virtual environment directories
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+.DS_Store
